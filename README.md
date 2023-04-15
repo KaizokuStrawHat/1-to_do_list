@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Project #1 - ToDo List
 
 Learnings:
@@ -57,3 +58,6 @@ Ideas:
       delete button disappears, instead delete function calls on clicking text
 
     (2) Integrate a checkbox / strikethrough label, and a clear button -- replacing the need for delete button
+=======
+# 1-to_do_list
+>>>>>>> 4cd2a3907ec15a9361b2324a40a7903f16be4755
